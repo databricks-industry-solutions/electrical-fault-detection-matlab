@@ -4,13 +4,17 @@
 [![CLOUD](https://img.shields.io/badge/CLOUD-CHANGE_ME-blue?logo=googlecloud&style=for-the-badge)](https://databricks.com/try-databricks)
 
 ## Business Problem
-WHAT IS THE BUSINESS PROBLEM ADDRESSED BY THIS SOLUTION
+Power outages, if not addressed promptly, can have adverse effects on consumers. A significant challenge facing utility companies today is transitioning from reactive to proactive detection of potential electrical faults. Moreover, once a prediction indicates a high likelihood of a fault, the next hurdle is accurately identifying the precise location within the electrical grid where the fault may occur. To effectively train models for this purpose, utility companies require a substantial amount of labeled data to develop fault detection algorithms. By leveraging MATLAB and Databricks, we utilize physical models to create powerful simulations that generate the necessary data for training machine learning models. This solution accelerator provides a head start to use simulated electrical fault data to train a deep learning model to predict electrical system faults.
+
 
 ## Reference Architecture
 IMAGE TO REFERENCE ARCHITECTURE
 
 ## Authors
-<john.doe@databricks.com>
+### Zachary Jacbson
+### Jenny Park
+### Drew Triplett
+### Karthiga Mahalingam
 
 ## Project support 
 
