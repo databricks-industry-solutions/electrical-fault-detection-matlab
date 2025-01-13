@@ -8,7 +8,7 @@ Power outages, if not addressed promptly, can have adverse effects on consumers.
 
 
 ## Reference Architecture
-IMAGE TO REFERENCE ARCHITECTURE
+<img src ="https://github.com/karthiga19/Fault-detection-matlab-databricks-images/blob/main/MATLAB-databricks-interface.png?raw=true" width="1000">
 
 ## Authors
 ### Zachary Jacbson
